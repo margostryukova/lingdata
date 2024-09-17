@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,98 +8,123 @@
     <style>
         body {
             font-family: Bold;
-            background-color: #4B0082; 
+            background-color: #4B0082;
             color: white;
             margin: 0;
             display: flex;
             flex-direction: column;
-			
+
         }
+
+        a:link {
+            color: white;
+        }
+
+        a:visited {
+            color: #DC143C;
+        }
+
+        a:hover {
+            color: tomato;
+        }
+
+        a:active {
+            color: tomato;
+        }
+
         header {
             background: #4B0082;
             padding: 20px;
             text-align: center;
-			
         }
+
+        .social-links {
+            a {
+                padding: 0 10px;
+            }
+        }
+
         .container {
             display: flex;
-            flex: 1;
-            padding: 20px;
+            justify-content: center;
         }
+
         .info-box {
             background-color: #3a0a5e;
             padding: 20px;
             border-radius: 10px;
             margin: 10px;
-           
+            display: flex;
+            flex-direction: column;
         }
-        
+
         .photos {
             display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
-            margin: 20px 0;
-            background: linear-gradient(to top, #E6E6FA, #4B0082); 
-            padding: 0px;
+            justify-content: space-between;
+            gap: 5px;
+            background: linear-gradient(to top, #E6E6FA, #4B0082);
         }
+
         .photo {
-            text-align: center;
-            margin: 10px;
+            display: flex;
         }
+
         img {
-            max-width: 300px;
-            border-radius: 0px;
-            max-height: 300px;
+            max-width: 100%;
+            border-radius: 5px;
         }
     </style>
 </head>
+
 <body>
 
-<header>
-    <h1>MARGO STRYUKOVA</h1>
-    <div class="social-links">
-        <a href="https://t.me/margosssssss" target="_blank">Telegram</a>
-        <a href="https://instagram.com/margostryukova?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a>
-        <a href="https://vk.com/margostryukova" target="_blank">VK</a>
-		<a href="https://github.com/margostryukova" target="_blank">GitHub</a>
-		
-    </div>
-</header>
+    <header>
+        <h1>MARGO STRYUKOVA</h1>
+        <div class="social-links">
+            <a href="https://t.me/margosssssss" target="_blank">Telegram</a>
+            <a href="https://instagram.com/margostryukova?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a>
+            <a href="https://vk.com/margostryukova" target="_blank">VK</a>
+            <a href="https://github.com/margostryukova" target="_blank">GitHub</a>
+        </div>
+    </header>
 
 
-<div class="container">
-    <div class="info-box">
-        <h2>Обо мне</h2>
-        <p>Лингвист, который поет. Тамада, шут, диджей и артист на все ваши мероприятия.
-		<br><i>Выпускница Музыкальной Академии Ларисы Долиной.</I></p>
-    </div>
-    
-    <div class="info-box">
-        <h2>Школа лингвистики</h2>
-		<a href="https://olesar.github.io/lingdata/" target="_blank">Страница курса</a>
-		<a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2024/baling_2024_lat1.html" target="_blank">Страница группы</a>
-    </div>
-    
-    <div class="info-box">
-        <h2>Родной город - Челябинск.</h2>
-        <p><b>Теперь я здесь:</b> Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
-    </div>
-</div>
+    <div class="container">
+        <div class="info-box">
+            <h2>Обо мне</h2>
+            <p>Лингвист, который поет. Тамада, шут, диджей и артист на все ваши мероприятия.
+                <br><i>Выпускница Музыкальной Академии Ларисы Долиной.</I>
+            </p>
+        </div>
 
-<div class="photos">
-    <div class="photo">
-        <img src="myphoto.jpg">
-     
+        <div class="info-box">
+            <h2>Школа лингвистики</h2>
+            <a href="https://olesar.github.io/lingdata/" target="_blank">Страница курса</a>
+            <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2024/baling_2024_lat1.html" target="_blank">Страница
+                группы</a>
+        </div>
+
+        <div class="info-box">
+            <h2>Родной город - Челябинск.</h2>
+            <p><b>Теперь я здесь:</b> Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
+        </div>
     </div>
-    <div class="photo">
-        <img src="myphoto1.jpg">
-        
+
+    <div class="photos">
+        <div class="photo">
+            <img src="myphoto.jpg">
+
+        </div>
+        <div class="photo">
+            <img src="myphoto1.jpg">
+
+        </div>
+        <div class="photo">
+            <img src="myphoto2.jpg">
+
+        </div>
     </div>
-    <div class="photo">
-        <img src="myphoto2.jpg">
-        
-    </div>
-</div>
 
 </body>
+
 </html>
