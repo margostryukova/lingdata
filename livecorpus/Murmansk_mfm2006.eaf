@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-02T22:52:09+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/79823/Downloads/Murmansk_mf.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Murmansk_mf.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:df5ca5eb-7823-455b-876c-5027c81bfd39</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">21</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1161"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="8118"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="9843"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="13643"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15152"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="16000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="18725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="18733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="18736"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="23258"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="23290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="27649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28548"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="44419"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="44452"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="@margostryukova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@mfm2006m" TIER_ID="text@mfm2006m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>а слава Богу музыка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>потому что песни это // я пас я пасую конечно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>а если музыка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>то / это / наверное </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>даже дев=девушка оглянулась она подумала что мы о чем-то странном говорим в принципе права</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>тем не менее если музыка то / ну я люблю академическую оркестровую</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>а вот композитор / ну опять их несколько наверное это будет Бетховен / это будет Бетховен Штраус / ну и там какие-нибудь кусочки Прокофьева кусочки Стравинского</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@margostryukova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@mfm2006m" TIER_ID="spokencorpor@mfm2006m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>А слава Богу \му̲зыка-а, · потому что песни /э̲то, ·· я \па̲с, я \пасу̲ю, конечно а если музыка то-о · \это-о, /наве̲рное.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Даже дев=девушка /огляну̲лась, · она подумала что мы о чем-то \стра̲нном, говорим в принципе \права̲.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Тем не менее если /му̲зыка, /то̲-о, ну я люблю /академи̲ческую, /оркестро̲вую, ·· а вот /компози̲тор, · ну опять их несколько наверное это будет /Бетхо̲вен, · ·это будет /Бетхо̲вен, /Штра̲ус, ну и там какие-нибудь кусочки /Проко̲фьева, кусочки \Страви̲нского.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@margostryukova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@spv2006f" TIER_ID="text@spv2006f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>ммм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>возвращая к // Битлз / какую музыку вообще слушаешь жанр может любимый исполнитель есть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@margostryukova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@spv2006f" TIER_ID="spokencorpora@spv2006f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ммм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Возвращая к-э-э · \"Би̲тлз", · какую музыку вообще слушаешь /жа̲нр, может любимый исполнитель \есть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
